@@ -1,0 +1,20 @@
+difficulty,condition,2p,count
+Legendary,Campaign complete if you control 2 enemy bases at any time,No,1
+Legendary,Campaign complete if you conquer 1 territory within 5 regions in one turn,No,2
+Legendary,"Campaign complete if, at the start of your turn, you gain 18 troops",Yes,1
+Legendary,Campaign complete if you control 3 regions at the END of your turn,Yes,1
+Legendary,Campaign complete if you destroy 20 enemy units in one turn,Yes,1
+Legendary,Campaign complete if you control 2 regions at the START of your turn,Yes,1
+Legendary,Campaign complete if you eliminate 1 enemy player from the game,No,1
+Heroic,"Campaign complete if, at the start of your turn, you gain 14 troops",No,1
+Heroic,Campaign complete if you conquer 7 territories in one turn,Yes,1
+Heroic,Campaign complete if you control 2 regions at the END of your turn,Yes,2
+Heroic,"Campaign complete if, at the start of your turn, you control 1 territory in an all enemy occupied region",Yes,1
+Heroic,Campaign complete if you have a region bonus of 3 or more at the start of your turn,Yes,1
+Heroic,Campaign complete if you control 1 enemy base at any time,Yes,1
+Heroic,Campaign complete if you destroy 15 enemy units in one turn,Yes,1
+Easy,Campaign complete if you conquer 4 territories in one turn,Yes,2
+Easy,Campaign complete if you conquer a region occupied by more than one opponent when your turn began,No,1
+Easy,Campaign complete if you destroy 10 enemy units in one turn,Yes,2
+Easy,"Campaign complete if, at the start of your turn, you gain 10 or more units",Yes,1
+Easy,Campaign complete if you conquer 1 territory from each opponent in one turn (including neutral factions),Yes,2
