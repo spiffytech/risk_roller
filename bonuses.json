@@ -1,0 +1,354 @@
+[
+    {
+        "faction": "Covenant",
+        "title": "Ghost Ambush Executed",
+        "description": "A forward operating Ghost strike team cuts off any chance of retreat",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "The invasion cannot be called off until your opponent wins or is no longer able to attack",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Grunt Reinforcements",
+        "description": "Heavy Grunt reinforcement squads arrive en masse",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Roll one die.\nAdd that many units to your invaded territory",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Jackal Scout Teams",
+        "description": "Jackal scouts make a surprise appearance on the battlefield",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Roll one die.\nAdd that many units to your invaded territory",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Overshield",
+        "description": "Covenant defenders get a surprise defensive edge",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Add 1 to all of your defense dice for the duration of this invasion",
+        "skulls": 2
+    },
+    {
+        "faction": "Covenant",
+        "title": "Living Tanks",
+        "description": "Hunter squads set up a blockade, cutting off enemy movement",
+        "usewhen": "After an opponent has finished their invasions, but before they maneuver",
+        "effect": "Name an enemy territory.\nYour opponent may not move units on, off, or through the territory during fortification",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Call In A Phantom",
+        "description": "The Covenant Commander moves to a more advantageous position on the battlefield",
+        "usewhen": "Anytime",
+        "effect": "Execute a high-altitude deployment. You may move your Hero to any territory you control",
+        "skulls": 2
+    },
+    {
+        "faction": "Covenant",
+        "title": "Jackal Snipers",
+        "description": "Jackal Snipers temporarily incapacitate a high value enemy target",
+        "usewhen": "Anytime",
+        "effect": "Choose an enemy Hero.\nRoll one die.\nIf you roll 3 or higher, remove the Hero from play until the start of that player's next turn",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Base Relocation",
+        "description": "The Covenant transfer their forward operating base",
+        "usewhen": "At the start of your turn",
+        "effect": "You may relocate your command center, even if it is under enemy control",
+        "skulls": 2
+    },
+    {
+        "faction": "Covenant",
+        "title": "Seraph Fighter Assault",
+        "description": "Airborne strike initiated by Seraph fighter groups devastates eemy forces",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose a region.\nDestroy 1 enemy unit in each territory that has more than 1 unit",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Treacherous Technology",
+        "description": "The Covenant takes advantage of a Forerunner artifact to gain the upper hand",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose an opponent.\nRandomly discard 1 Faction card from the opponent's hand",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Plasma Bombardment",
+        "description": "Wraith tanks rain destruction from range with a plasma mortar bombardment",
+        "usewhen": "Before declaring an invasion",
+        "effect": "Name an enemy territory.\nYou may invade that territory from any 1 territory you control, regardless of any connections between them",
+        "skulls": 2
+    },
+    {
+        "faction": "Covenant",
+        "title": "Scarab Destruction",
+        "description": "The Covenant deploys a heavily armed Scarab battle platform",
+        "usewhen": "Before declaring an invasion",
+        "effect": "Add 2 to all of your attack dice for the duration of this invasion",
+        "skulls": 2
+    },
+    {
+        "faction": "Covenant",
+        "title": "Wrath of the Forerunners",
+        "description": "Covenant Engineers improve Covenant weapons with recovered Forerunner technology",
+        "usewhen": "Before declaring an invasion",
+        "effect": "Add 1 to all of your attack dice for the duration of this invasion",
+        "skulls": 1
+    },
+    {
+        "faction": "Covenant",
+        "title": "Banshee Strike",
+        "description": "Banshee squadron catches enemies off guard with a punishing aerial bombardment",
+        "usewhen": "When an opponent has declared a battle with another opponent",
+        "effect": "Both territories involved lose 2 units.\nOne unit must remain on both territories",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Infectious Betrayal",
+        "description": "Enemy forces are overwhelmed by the Flood, transforming into monsters before their friends' eyes",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Remove up to 2 units from the attacking force.\nAdd 2 of your units to the defending territory",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Just One Spore",
+        "description": "One invading soldier falls to the Flood, transforming into a terrible threat to the entire attacking force",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Roll one die. Destroy that many invading units",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Lurking Secrets",
+        "description": "At an abandoned Forerunner site, the opposition unwittingly lets loose a torrent of hidden Flood activity",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Roll one die.\nAdd that many units to the invaded territory",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Mass of Flood Breached",
+        "description": "Opposition stumbles upon a seemingly inactive mass of Flood, quickly falling prey to the awakening infestation",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Remove 2 units from your attacker. Add 2 units to the defending territory",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Carrier Forms Dispatched",
+        "description": "The Flood directs carrier forms into battle, wiping out the enemy attackers",
+        "usewhen": "After an opponent declares an invasion against you, but before dice are rolled, up to 3 attacking units",
+        "effect": "Sacrifice 1 of your units and destroy all attacking units (1 unit must remain in the attacking territory)",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Flood Sacrifice",
+        "description": "As enemies attempt to neutralize the Flood's threat, the parasite releases explosive carrier forms",
+        "usewhen": "After an opponent declares an invasion against you, but before dice are rolled, up to 3 attacking units",
+        "effect": "Sacrifice 1 of your units and destroy all attacking units (1 unit must remain in the attacking territory)",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Feral Stage Accomplished",
+        "description": "With the Flood collective increasing, the feral stage is reached, increasing the parasite's ability to direct combat",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Place all of your dice on 6's. (May only be used on 1 roll of the dice)",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Proto-Gravemind",
+        "description": "Enemies are surrounded by the coordinated efforts of the powerful Flood collective",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Place all of your dice on 6's. (May only be used on 1 roll of the dice)",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Combat Haze",
+        "description": "The Flood infection spreads to the air, forcing enemy units to take protective measures",
+        "usewhen": "Anytime",
+        "effect": "Name an opponent.\nThat opponent subtracts 1 from the highest die for all battles for the duration of the current player's turn",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "Containment Protocol Violated",
+        "description": "The breaching of a local containment facility spreads an unrelenting wave of infection forms",
+        "usewhen": "At the start of your turn",
+        "effect": "Roll one die.\nAdd that many units to any territory or territories you control",
+        "skulls": 2
+    },
+    {
+        "faction": "Flood",
+        "title": "Flood Dispersal Pods",
+        "description": "Combat forms are transferred across the ring via dispersal pods, attacking enemy supplies",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose an opponent.\nRandomly discard up to 2 Faction cards from the opponent's hand",
+        "skulls": 2
+    },
+    {
+        "faction": "Flood",
+        "title": "Infected Pilots",
+        "description": "The Flood seize control of enemy vessels, using them to infiltrate the opposition's territory",
+        "usewhen": "At the start of your turn",
+        "effect": "Randomly discard 1 Faction card from all opponents",
+        "skulls": 2
+    },
+    {
+        "faction": "Flood",
+        "title": "It Only Takes One",
+        "description": "An infection form catches a vulnerable target off guard",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose an enemy territory adjacent to a territory you control with only one unit.\nDestroy that unit and roll one die.\nGain and place that many units of your own in that territory",
+        "skulls": 2
+    },
+    {
+        "faction": "Flood",
+        "title": "Miles of Tunnels",
+        "description": "Flood forms of all kinds move along the ring's dark interior chasms, resurfacing well behind enemy lines",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose an opponent.\nRandomly discard up to 2 Faction cards from the opponent's hand",
+        "skulls": 2
+    },
+    {
+        "faction": "Flood",
+        "title": "Devastating Infestation",
+        "description": "New Flood combat forms rise from the ranks of fallen enemies, overwhelming their former allies",
+        "usewhen": "Before declaring an invasion",
+        "effect": "Reroll all 1's for the duration of your turn. (Includes attacking multiple territories)",
+        "skulls": 1
+    },
+    {
+        "faction": "Flood",
+        "title": "They Don't Feel Pain",
+        "description": "Flood combat forms shrug off otherwise lethal damage",
+        "usewhen": "Before declaring an invasion",
+        "effect": "Reroll all 1's for the duration of your turn. (Includes attacking multiple territories)",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Pelican Evac",
+        "description": "Pelican dropships rescue units from a desperate situation",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Remove all of your units but 1 from the invaded territory and place them on any other territory you control",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Teleportation Grid",
+        "description": "Marines use Halo's mysterious transporters to swap out reinforcements",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Swap all units between any 2 territories you control",
+        "skulls": 2
+    },
+    {
+        "faction": "UNSC",
+        "title": "The Cavalry Has Arrived",
+        "description": "ODSTs deploy fresh units for the next battle",
+        "usewhen": "After an opponent declares an invasion against you",
+        "effect": "Roll one die.\nDestroy that many units from the attacking territory (1 unit must remain in that territory)",
+        "skulls": 2
+    },
+    {
+        "faction": "UNSC",
+        "title": "Designated Marksmen",
+        "description": "ODST sharpshooters turn the tide of battle with withering cover fire",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Place all of your dice on 6's. (May only be used on 1 roll of the dice)",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Human Spirit",
+        "description": "Humans are at their most dangerous when the battlefield looks bleak",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Place all of your dice on 6's. (May only be used on 1 roll of the dice)",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Rapid Reload",
+        "description": "Turning defeat into victory requires nerves of steel, quick fingers, and lots of extra magazines",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Reroll any or all of the dice you just rolled",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "UNSC Reinforcements",
+        "description": "Fresh marine squads are deployed across the area of operation",
+        "usewhen": "After you and your opponent have made your dice rolls",
+        "effect": "Place all of your dice on 6's. (May only be used on 1 roll of the dice)",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Behind Enemy Lines",
+        "description": "Covert strike teams open a passage through enemy territory",
+        "usewhen": "After you have finished your invasions",
+        "effect": "When fortifying this turn, you may pass through 1 enemy territory",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Spartan Sniper",
+        "description": "Spartan sniper eliminates a high-value enemy target",
+        "usewhen": "Anytime",
+        "effect": "Choose an enemy Hero.\nRoll one die.\nIf you roll 3 or higher, remove the Hero from play until the start of that player's next turn",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Scorpion Overrun",
+        "description": "A Scorpion Tank plows through enemy lines",
+        "usewhen": "At the start of an invasion",
+        "effect": "Add 1 to all your dice for the duration of this invasion (May be used for attack AND defense)",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Communications Jammer",
+        "description": "ONI operators sever all enemy comm channels",
+        "usewhen": "At the start of your turn",
+        "effect": "Opponents cannot play any cards against you for the duration of your current turn",
+        "skulls": 2
+    },
+    {
+        "faction": "UNSC",
+        "title": "Sabotage",
+        "description": "ODST squad successfully destroys a key enemy supply base",
+        "usewhen": "At the start of your turn",
+        "effect": "Choose an opponent.\nRandomly discard up to 2 Faction cards from the opponent's hand",
+        "skulls": 2
+    },
+    {
+        "faction": "UNSC",
+        "title": "UNSC Reinforcements",
+        "description": "Fresh marine squads are deployed across the area of operation",
+        "usewhen": "At the start of your turn",
+        "effect": "Deploy 3 units, 1 each on 3 different territories you occupy. If you occupy less than 3 territories, you may still deploy all 3 units",
+        "skulls": 1
+    },
+    {
+        "faction": "UNSC",
+        "title": "Breaking The Enemy",
+        "description": "Getting the aliens to fight each other is easy…getting clear of the resulting explosions is hard",
+        "usewhen": "Before an opponent places reinforcements at the start of their turn",
+        "effect": "Remove a maximum of 5 units from their reinforcement pool",
+        "skulls": 1
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you control 2 enemy bases at any time",
+        "2p": false
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you conquer 1 territory within 5 regions in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you conquer 1 territory within 5 regions in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if, at the start of your turn, you gain 18 troops",
+        "2p": true
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you control 3 regions at the END of your turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you destroy 20 enemy units in one turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you control 2 regions at the START of your turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Legendary",
+        "condition": "Campaign complete if you eliminate 1 enemy player from the game",
+        "2p": false
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if, at the start of your turn, you gain 14 troops",
+        "2p": false
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you conquer 7 territories in one turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you control 2 regions at the END of your turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you control 2 regions at the END of your turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if, at the start of your turn, you control 1 territory in an all enemy occupied region",
+        "2p": true
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you have a region bonus of 3 or more at the start of your turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you control 1 enemy base at any time",
+        "2p": true
+    },
+    {
+        "difficulty": "Heroic",
+        "condition": "Campaign complete if you destroy 15 enemy units in one turn",
+        "2p": true
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you conquer 4 territories in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you conquer 4 territories in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you conquer a region occupied by more than one opponent when your turn began",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you destroy 10 enemy units in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you destroy 10 enemy units in one turn",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if, at the start of your turn, you gain 10 or more units",
+        "2p": true
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you conquer 1 territory from each opponent in one turn (including neutral factions)",
+        "2p": false
+    },
+    {
+        "difficulty": "Easy",
+        "condition": "Campaign complete if you conquer 1 territory from each opponent in one turn (including neutral factions)",
+        "2p": false
+    }
+]
